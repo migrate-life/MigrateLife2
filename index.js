@@ -1,6 +1,1 @@
-'use strict';
-
-const app = require('./src');
-const PORT = process.env.PORT || 3000;
-
-app.listen(PORT, () => console.log(PORT));
+require('./src').listen(process.env.PORT || 3000);
