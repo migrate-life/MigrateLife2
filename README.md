@@ -5,8 +5,9 @@
 Currently a work in progress. This will be the refactored version of our first
 [Migrate Life](https://github.com/migrate-life/Migrate.Life) project.
 
-- [Spencer Hirata](http://spencerhirata.com)
 - [Jon Gentry]()
+- [Spencer Hirata](http://spencerhirata.com)
+- [Tanner Percival]()
 
 ---
 
